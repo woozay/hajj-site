@@ -1,0 +1,8 @@
+
+.navbar {
+    min-height: 3.25rem;
+}
+
+.hero {
+    background: url('assets/images/hajj-background.jpg') top center; background-size:cover; 
+}
